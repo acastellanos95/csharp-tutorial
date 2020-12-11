@@ -1,0 +1,13 @@
+/home/andre/Documents/2020/C#-Intermediate/Indexer/bin/Debug/netcoreapp3.1/Indexer
+/home/andre/Documents/2020/C#-Intermediate/Indexer/bin/Debug/netcoreapp3.1/Indexer.deps.json
+/home/andre/Documents/2020/C#-Intermediate/Indexer/bin/Debug/netcoreapp3.1/Indexer.runtimeconfig.json
+/home/andre/Documents/2020/C#-Intermediate/Indexer/bin/Debug/netcoreapp3.1/Indexer.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Intermediate/Indexer/bin/Debug/netcoreapp3.1/Indexer.dll
+/home/andre/Documents/2020/C#-Intermediate/Indexer/bin/Debug/netcoreapp3.1/Indexer.pdb
+/home/andre/Documents/2020/C#-Intermediate/Indexer/obj/Debug/netcoreapp3.1/Indexer.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Intermediate/Indexer/obj/Debug/netcoreapp3.1/Indexer.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Indexer/obj/Debug/netcoreapp3.1/Indexer.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Intermediate/Indexer/obj/Debug/netcoreapp3.1/Indexer.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Indexer/obj/Debug/netcoreapp3.1/Indexer.dll
+/home/andre/Documents/2020/C#-Intermediate/Indexer/obj/Debug/netcoreapp3.1/Indexer.pdb
+/home/andre/Documents/2020/C#-Intermediate/Indexer/obj/Debug/netcoreapp3.1/Indexer.genruntimeconfig.cache

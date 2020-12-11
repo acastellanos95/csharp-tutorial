@@ -1,0 +1,39 @@
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.deps.json
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.runtimeconfig.json
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.genruntimeconfig.cache
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.exe
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.deps.json
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.runtimeconfig.json
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.runtimeconfig.dev.json
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.csprojAssemblyReference.cache
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.AssemblyInfoInputs.cache
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.AssemblyInfo.cs
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.csproj.CoreCompileInputs.cache
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.genruntimeconfig.cache
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.deps.json
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.runtimeconfig.json
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.runtimeconfig.dev.json
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/bin/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.csprojAssemblyReference.cache
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.AssemblyInfo.cs
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/obj/Debug/netcoreapp3.1/Exercise_DBConnection.genruntimeconfig.cache

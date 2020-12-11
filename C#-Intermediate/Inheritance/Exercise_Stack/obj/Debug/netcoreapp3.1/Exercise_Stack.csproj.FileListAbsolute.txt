@@ -1,0 +1,26 @@
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/bin/Debug/netcoreapp3.1/Exercise_Stack
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/bin/Debug/netcoreapp3.1/Exercise_Stack.deps.json
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/bin/Debug/netcoreapp3.1/Exercise_Stack.runtimeconfig.json
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/bin/Debug/netcoreapp3.1/Exercise_Stack.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/bin/Debug/netcoreapp3.1/Exercise_Stack.dll
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/bin/Debug/netcoreapp3.1/Exercise_Stack.pdb
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/obj/Debug/netcoreapp3.1/Exercise_Stack.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/obj/Debug/netcoreapp3.1/Exercise_Stack.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/obj/Debug/netcoreapp3.1/Exercise_Stack.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/obj/Debug/netcoreapp3.1/Exercise_Stack.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/obj/Debug/netcoreapp3.1/Exercise_Stack.dll
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/obj/Debug/netcoreapp3.1/Exercise_Stack.pdb
+/home/andre/Documents/2020/C#-Intermediate/Inheritance/Exercise_Stack/obj/Debug/netcoreapp3.1/Exercise_Stack.genruntimeconfig.cache
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\bin\Debug\netcoreapp3.1\Exercise_Stack.exe
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\bin\Debug\netcoreapp3.1\Exercise_Stack.deps.json
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\bin\Debug\netcoreapp3.1\Exercise_Stack.runtimeconfig.json
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\bin\Debug\netcoreapp3.1\Exercise_Stack.runtimeconfig.dev.json
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\bin\Debug\netcoreapp3.1\Exercise_Stack.dll
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\bin\Debug\netcoreapp3.1\Exercise_Stack.pdb
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\obj\Debug\netcoreapp3.1\Exercise_Stack.csprojAssemblyReference.cache
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\obj\Debug\netcoreapp3.1\Exercise_Stack.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\obj\Debug\netcoreapp3.1\Exercise_Stack.AssemblyInfo.cs
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\obj\Debug\netcoreapp3.1\Exercise_Stack.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\obj\Debug\netcoreapp3.1\Exercise_Stack.dll
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\obj\Debug\netcoreapp3.1\Exercise_Stack.pdb
+C:\Users\andre\Documents\2020\C# tutorial\C#-Intermediate\Inheritance\Exercise_Stack\obj\Debug\netcoreapp3.1\Exercise_Stack.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/andre/Documents/2020/C#-Begginner/WordGame/bin/Debug/netcoreapp3.1/WordGame
+/home/andre/Documents/2020/C#-Begginner/WordGame/bin/Debug/netcoreapp3.1/WordGame.deps.json
+/home/andre/Documents/2020/C#-Begginner/WordGame/bin/Debug/netcoreapp3.1/WordGame.runtimeconfig.json
+/home/andre/Documents/2020/C#-Begginner/WordGame/bin/Debug/netcoreapp3.1/WordGame.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Begginner/WordGame/bin/Debug/netcoreapp3.1/WordGame.dll
+/home/andre/Documents/2020/C#-Begginner/WordGame/bin/Debug/netcoreapp3.1/WordGame.pdb
+/home/andre/Documents/2020/C#-Begginner/WordGame/obj/Debug/netcoreapp3.1/WordGame.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Begginner/WordGame/obj/Debug/netcoreapp3.1/WordGame.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Begginner/WordGame/obj/Debug/netcoreapp3.1/WordGame.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Begginner/WordGame/obj/Debug/netcoreapp3.1/WordGame.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Begginner/WordGame/obj/Debug/netcoreapp3.1/WordGame.dll
+/home/andre/Documents/2020/C#-Begginner/WordGame/obj/Debug/netcoreapp3.1/WordGame.pdb
+/home/andre/Documents/2020/C#-Begginner/WordGame/obj/Debug/netcoreapp3.1/WordGame.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBConnection
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.deps.json
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.runtimeconfig.json
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.dll
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.pdb
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.csproj.CopyComplete
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.dll
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.pdb
+/home/andre/Documents/2020/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.genruntimeconfig.cache
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.dll
+C:/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.pdb
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBConnection
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.deps.json
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.runtimeconfig.json
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.runtimeconfig.dev.json
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.dll
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBCommand.pdb
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBConnection.dll
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/bin/Debug/netcoreapp3.1/Exercise_DBConnection.pdb
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.csprojAssemblyReference.cache
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.AssemblyInfo.cs
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.csproj.CopyComplete
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.dll
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.pdb
+/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/Debug/netcoreapp3.1/Exercise_DBCommand.genruntimeconfig.cache

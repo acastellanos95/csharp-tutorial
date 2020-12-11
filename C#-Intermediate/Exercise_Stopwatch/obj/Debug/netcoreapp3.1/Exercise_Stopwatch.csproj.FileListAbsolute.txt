@@ -1,0 +1,13 @@
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/bin/Debug/netcoreapp3.1/Exercise_Stopwatch
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/bin/Debug/netcoreapp3.1/Exercise_Stopwatch.deps.json
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/bin/Debug/netcoreapp3.1/Exercise_Stopwatch.runtimeconfig.json
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/bin/Debug/netcoreapp3.1/Exercise_Stopwatch.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/bin/Debug/netcoreapp3.1/Exercise_Stopwatch.dll
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/bin/Debug/netcoreapp3.1/Exercise_Stopwatch.pdb
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/obj/Debug/netcoreapp3.1/Exercise_Stopwatch.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/obj/Debug/netcoreapp3.1/Exercise_Stopwatch.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/obj/Debug/netcoreapp3.1/Exercise_Stopwatch.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/obj/Debug/netcoreapp3.1/Exercise_Stopwatch.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/obj/Debug/netcoreapp3.1/Exercise_Stopwatch.dll
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/obj/Debug/netcoreapp3.1/Exercise_Stopwatch.pdb
+/home/andre/Documents/2020/C#-Intermediate/Exercise_Stopwatch/obj/Debug/netcoreapp3.1/Exercise_Stopwatch.genruntimeconfig.cache

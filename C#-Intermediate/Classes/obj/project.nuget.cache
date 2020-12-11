@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsoct+lbO5I9Hnudxs/PjpEK26aNQQwwiqTyEXC5MLW7nt66EzlGumrlPVDiltoFla30u57C4sxAk8TlHTeLKQ==",
+  "success": true,
+  "projectFilePath": "/home/andre/Documents/2020/C#-Intermediate/Classes/Classes.csproj",
+  "expectedPackageFiles": [
+    "/home/andre/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "/home/andre/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.9/microsoft.netcore.app.host.linux-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

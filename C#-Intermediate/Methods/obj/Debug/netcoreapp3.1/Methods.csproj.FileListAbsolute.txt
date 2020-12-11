@@ -1,0 +1,13 @@
+/home/andre/Documents/2020/C#-Intermediate/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Intermediate/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Intermediate/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Methods/bin/Debug/netcoreapp3.1/Methods
+/home/andre/Documents/2020/C#-Intermediate/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/home/andre/Documents/2020/C#-Intermediate/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/home/andre/Documents/2020/C#-Intermediate/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Intermediate/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/home/andre/Documents/2020/C#-Intermediate/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/home/andre/Documents/2020/C#-Intermediate/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/home/andre/Documents/2020/C#-Intermediate/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/home/andre/Documents/2020/C#-Intermediate/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache

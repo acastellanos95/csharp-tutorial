@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercise_DBConnection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Exercise_DBConnection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise_DBConnection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise_DBConnection/1.0.0": {
+      "type": "project",
+      "path": "../Exercise_DBConnection/Exercise_DBConnection.csproj",
+      "msbuildProject": "../Exercise_DBConnection/Exercise_DBConnection.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Exercise_DBConnection >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/andre/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/Exercise_DBCommand.csproj",
+      "projectName": "Exercise_DBCommand",
+      "projectPath": "/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/Exercise_DBCommand.csproj",
+      "packagesPath": "/home/andre/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBCommand/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/andre/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/Exercise_DBConnection.csproj": {
+              "projectPath": "/mnt/c/Users/andre/Documents/2020/C# tutorial/C#-Intermediate/Polymorphism/Exercise_DBConnection/Exercise_DBConnection.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

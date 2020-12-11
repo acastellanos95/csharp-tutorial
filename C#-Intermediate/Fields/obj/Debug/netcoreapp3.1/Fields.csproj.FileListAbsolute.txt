@@ -1,0 +1,13 @@
+/home/andre/Documents/2020/C#-Intermediate/Fields/bin/Debug/netcoreapp3.1/Fields
+/home/andre/Documents/2020/C#-Intermediate/Fields/bin/Debug/netcoreapp3.1/Fields.deps.json
+/home/andre/Documents/2020/C#-Intermediate/Fields/bin/Debug/netcoreapp3.1/Fields.runtimeconfig.json
+/home/andre/Documents/2020/C#-Intermediate/Fields/bin/Debug/netcoreapp3.1/Fields.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Intermediate/Fields/bin/Debug/netcoreapp3.1/Fields.dll
+/home/andre/Documents/2020/C#-Intermediate/Fields/bin/Debug/netcoreapp3.1/Fields.pdb
+/home/andre/Documents/2020/C#-Intermediate/Fields/obj/Debug/netcoreapp3.1/Fields.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Intermediate/Fields/obj/Debug/netcoreapp3.1/Fields.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Fields/obj/Debug/netcoreapp3.1/Fields.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Intermediate/Fields/obj/Debug/netcoreapp3.1/Fields.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Intermediate/Fields/obj/Debug/netcoreapp3.1/Fields.dll
+/home/andre/Documents/2020/C#-Intermediate/Fields/obj/Debug/netcoreapp3.1/Fields.pdb
+/home/andre/Documents/2020/C#-Intermediate/Fields/obj/Debug/netcoreapp3.1/Fields.genruntimeconfig.cache

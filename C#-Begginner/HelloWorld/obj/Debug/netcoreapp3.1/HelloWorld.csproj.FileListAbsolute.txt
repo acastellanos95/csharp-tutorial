@@ -1,0 +1,13 @@
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/andre/Documents/2020/C#-Begginner/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/andre/Documents/2020/C#-Begginner/Classes/bin/Debug/netcoreapp3.1/Classes
+/home/andre/Documents/2020/C#-Begginner/Classes/bin/Debug/netcoreapp3.1/Classes.deps.json
+/home/andre/Documents/2020/C#-Begginner/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.json
+/home/andre/Documents/2020/C#-Begginner/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.dev.json
+/home/andre/Documents/2020/C#-Begginner/Classes/bin/Debug/netcoreapp3.1/Classes.dll
+/home/andre/Documents/2020/C#-Begginner/Classes/bin/Debug/netcoreapp3.1/Classes.pdb
+/home/andre/Documents/2020/C#-Begginner/Classes/obj/Debug/netcoreapp3.1/Classes.csprojAssemblyReference.cache
+/home/andre/Documents/2020/C#-Begginner/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfoInputs.cache
+/home/andre/Documents/2020/C#-Begginner/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfo.cs
+/home/andre/Documents/2020/C#-Begginner/Classes/obj/Debug/netcoreapp3.1/Classes.csproj.CoreCompileInputs.cache
+/home/andre/Documents/2020/C#-Begginner/Classes/obj/Debug/netcoreapp3.1/Classes.dll
+/home/andre/Documents/2020/C#-Begginner/Classes/obj/Debug/netcoreapp3.1/Classes.pdb
+/home/andre/Documents/2020/C#-Begginner/Classes/obj/Debug/netcoreapp3.1/Classes.genruntimeconfig.cache

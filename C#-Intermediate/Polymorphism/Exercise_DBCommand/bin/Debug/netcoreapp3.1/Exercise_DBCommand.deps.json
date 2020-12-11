@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercise_DBCommand/1.0.0": {
+        "dependencies": {
+          "Exercise_DBConnection": "1.0.0"
+        },
+        "runtime": {
+          "Exercise_DBCommand.dll": {}
+        }
+      },
+      "Exercise_DBConnection/1.0.0": {
+        "runtime": {
+          "Exercise_DBConnection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise_DBCommand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_DBConnection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
