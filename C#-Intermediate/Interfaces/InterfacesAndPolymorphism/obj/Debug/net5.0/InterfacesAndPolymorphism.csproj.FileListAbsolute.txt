@@ -1,0 +1,16 @@
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/bin/Debug/net5.0/InterfacesAndPolymorphism
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/bin/Debug/net5.0/InterfacesAndPolymorphism.deps.json
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/bin/Debug/net5.0/InterfacesAndPolymorphism.runtimeconfig.json
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/bin/Debug/net5.0/InterfacesAndPolymorphism.runtimeconfig.dev.json
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/bin/Debug/net5.0/InterfacesAndPolymorphism.dll
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/bin/Debug/net5.0/ref/InterfacesAndPolymorphism.dll
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/bin/Debug/net5.0/InterfacesAndPolymorphism.pdb
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.csprojAssemblyReference.cache
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.AssemblyInfoInputs.cache
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.AssemblyInfo.cs
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.dll
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/ref/InterfacesAndPolymorphism.dll
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.pdb
+/mnt/c/Users/Andre/Documents/2020/csharp-tutorial/C#-Intermediate/Interfaces/InterfacesAndPolymorphism/obj/Debug/net5.0/InterfacesAndPolymorphism.genruntimeconfig.cache
