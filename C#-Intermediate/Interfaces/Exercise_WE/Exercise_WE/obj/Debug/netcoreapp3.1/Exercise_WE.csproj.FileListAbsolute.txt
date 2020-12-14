@@ -1,0 +1,13 @@
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\bin\Debug\netcoreapp3.1\Exercise_WE.exe
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\bin\Debug\netcoreapp3.1\Exercise_WE.deps.json
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\bin\Debug\netcoreapp3.1\Exercise_WE.runtimeconfig.json
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\bin\Debug\netcoreapp3.1\Exercise_WE.runtimeconfig.dev.json
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\bin\Debug\netcoreapp3.1\Exercise_WE.dll
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\bin\Debug\netcoreapp3.1\Exercise_WE.pdb
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\obj\Debug\netcoreapp3.1\Exercise_WE.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\obj\Debug\netcoreapp3.1\Exercise_WE.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\obj\Debug\netcoreapp3.1\Exercise_WE.AssemblyInfo.cs
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\obj\Debug\netcoreapp3.1\Exercise_WE.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\obj\Debug\netcoreapp3.1\Exercise_WE.dll
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\obj\Debug\netcoreapp3.1\Exercise_WE.pdb
+C:\Users\Andre\Documents\2020\csharp-tutorial\C#-Intermediate\Interfaces\Exercise_WE\Exercise_WE\obj\Debug\netcoreapp3.1\Exercise_WE.genruntimeconfig.cache

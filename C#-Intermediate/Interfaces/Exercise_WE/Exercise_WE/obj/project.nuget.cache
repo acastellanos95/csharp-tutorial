@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+tDG9+kOZx/nhU1LJ4MkOPki9Wt/tScfWRqXR/gy/T2Rzide3SPeRE/bck6BBoWSEoonRnvhkbkmaj6mNus7Q==",
+  "dgSpecHash": "1uzN+3yl4caV96/IZsj23mIhk2XeyxnQMI4yzflCbj+st/k1xVfZzg4AAEhEsKAN2EGnzdSaayPgz8YFEEbaAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\InterfacesAndExtensibility\\InterfacesAndExtensibility\\InterfacesAndExtensibility.csproj",
+  "projectFilePath": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\Exercise_WE\\Exercise_WE\\Exercise_WE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"

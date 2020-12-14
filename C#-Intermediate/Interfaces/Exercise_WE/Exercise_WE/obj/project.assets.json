@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\InterfacesAndExtensibility\\InterfacesAndExtensibility\\InterfacesAndExtensibility.csproj",
-      "projectName": "InterfacesAndExtensibility",
-      "projectPath": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\InterfacesAndExtensibility\\InterfacesAndExtensibility\\InterfacesAndExtensibility.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\Exercise_WE\\Exercise_WE\\Exercise_WE.csproj",
+      "projectName": "Exercise_WE",
+      "projectPath": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\Exercise_WE\\Exercise_WE\\Exercise_WE.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\InterfacesAndExtensibility\\InterfacesAndExtensibility\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\Documents\\2020\\csharp-tutorial\\C#-Intermediate\\Interfaces\\Exercise_WE\\Exercise_WE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
